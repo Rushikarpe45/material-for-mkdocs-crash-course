@@ -1,4 +1,4 @@
-## ** 17 Leadership Development**
+## ** Leadership Development**
 
 Leadership development refers to the process of enhancing the abilities, skills, and qualities of individuals to become effective leaders within an organization or community.
 

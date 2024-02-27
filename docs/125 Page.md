@@ -1,4 +1,4 @@
-**17.3 Strategies for Virtual Team Building:**
+**Strategies for Virtual Team Building:**
 
 Icebreaker activities: Start virtual meetings or team sessions with icebreaker questions or activities to help team members get to know each other on a personal level.
 
@@ -14,7 +14,7 @@ Offer virtual training sessions or workshops focused on developing specific skil
 **Virtual team retreats:**
 Plan occasional virtual retreats or off-site events where remote team members can come together for team-building activities, training sessions, and strategic planning discussions.
 
-**17.4 Best Practices for Virtual Team Building:**
+**Best Practices for Virtual Team Building:**
 
 **Be inclusive:** Consider the diverse needs and preferences of remote team members when planning virtual team-building activities, and ensure that everyone feels welcome and included.
 

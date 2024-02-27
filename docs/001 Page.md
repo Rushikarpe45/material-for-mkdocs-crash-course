@@ -1,6 +1,6 @@
   **INTRODUCTION**
   
-## **1.1 DEFINITION OF TEAM BUILDING**
+**1.1 DEFINITION OF TEAM BUILDING**
 
 T eam building is a process that involves bringing together a group of individuals to enhance their collective performance, collaboration, and communication. It is a strategic effort to develop a cohesive and effective team that can work together harmoniously to achieve common goals and objectives. Team building activities aim to foster a sense of unity, trust, and mutual understanding among team members.
 

@@ -1,4 +1,4 @@
-## 17.6 Collaboration **
+##  Collaboration **
 
 **Shared Goals and Vision:**
 

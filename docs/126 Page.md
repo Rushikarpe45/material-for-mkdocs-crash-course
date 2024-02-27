@@ -4,7 +4,7 @@ By investing in resources, leadership buy-in, clear objectives, training and dev
 
 Organizational support plays a crucial role in the success of team building efforts. Here's how 
 
-**17.5 Organizational support can facilitate effective team building:**
+**Organizational support can facilitate effective team building:**
 
 **Allocation of Resources:** 
 

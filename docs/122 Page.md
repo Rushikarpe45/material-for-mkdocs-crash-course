@@ -1,4 +1,4 @@
-**16.7.3 Team building activities can backfire and cause the opposite effect:**
+**Team building activities can backfire and cause the opposite effect:**
 
 While team building activities are intended to improve communication between team members and strengthen relationships,  it also has the potential to do the opposite–like when, for example, the activities are too competitive. 
 
@@ -10,7 +10,7 @@ Healthy competition may be fine in some cases but should be kept in check. Findi
 
 Finally, if the relationships between individual team members are really strained, a half hearted team building activity is not the solution. In such cases it might be better to consult with a specialist in conflict resolution. Team building should also not be used as a substitute for the daily work it takes to create a happy, healthy, psychologically safe working environment, even if it can teach you how to get there
 
-**16.7.4 Not everybody enjoys team building activities:**
+**Not everybody enjoys team building activities:**
 
 The motivation to participate in a team building exercise may vary drastically from person to person. Some will be excited to improve their workflows and connections with their colleagues, while others might feel uncomfortable because they have to let urgent tasks wait.
 
@@ -26,7 +26,7 @@ Other team members might view the team building activity as a break, and while w
 
 That is why it is important to communicate the goals and expectations of the activity to your team members before starting. That way, everyone can be on the same page from the start.
   
-**16.7.5 Not everyone can participate in team building activities:**
+**Not everyone can participate in team building activities:**
 
 Things like an action-packed outdoor event will probably sound appealing to many. However, this will not be the case for everyone. People with physical disabilities might feel excluded, and non-sporty and non-outdoorsy people might feel uncomfortable and embarrassed.  There are so many other factors to consider. Not everybody can swim for example, some people are afraid of heights and so on.
  

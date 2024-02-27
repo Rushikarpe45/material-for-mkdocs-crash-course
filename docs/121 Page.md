@@ -10,7 +10,7 @@ We believe that there are solutions to every problem and that in the end it is a
 
 In this blog post we will go over the advantages and disadvantages of team building, as well as possible solutions. Hopefully, this will make you more aware of the considerations going into team building activities, and how to make the most of your team building experience. 
 
-**16.7.1 Team building activities can be very expensive:**
+**Team building activities can be very expensive:**
 
 Team building events can be quite costly and if you want to spend money, the sky’s the limit. You might feel the pressure to spend more money on blowout events or high-priced group trips. Of course, only very few companies in the world have the budget to fly their teams to a tropical island retreat for team building. 
 
@@ -19,7 +19,7 @@ In reality, there are many more affordable options that will probably be as effe
 And if your budget is really tight, we still recommend implementing some sort of team building. This can be organized on your own–small group chats, outdoor picnics, impromptu office parties or lectures, etc. No matter what you can afford, putting in the effort into team building now will greatly benefit your team down the line.
 
 
-**16.7.2 Team building activities are time consuming and need to be held regularly:**
+**Team building activities are time consuming and need to be held regularly:**
 
 Team building exercises can be very time consuming both in their planning and execution. Also, it should be kept in mind that one single event will not have the long lasting effects that you may want–team building is a constant effort that needs to be worked on regularly. 
 
