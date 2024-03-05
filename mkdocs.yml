@@ -1,3 +1,19 @@
 site_name: My Docs
 theme:
   name: material
+  palette:
+   # palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: switch to light mode
+
+   # palette togle for light mode
+   - scheme: default 
+     primary: blue
+     accent: deep orange 
+      toggle:
+        icon: material/weather-sunny
+        name: switch to dark mode 
